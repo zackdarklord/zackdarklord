@@ -10,7 +10,7 @@
 - 💬 Ask me about **OpenStack , Docker , Kubernetes**
 
 - 📫 How to reach me **zakaria.chelbi@esprit.tn**
-                     **chelbiz@3il.fr**
+                    or **chelbiz@3il.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
