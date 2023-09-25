@@ -5,11 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zackdarklord&label=Profile%20views&color=0e75b6&style=flat" alt="zackdarklord" /> </p>
 
-- 🌱 I’m currently learning **Jenkins**
+- 🌱 I’m currently preparing for the CKAD exam
 
 - 💬 Ask me about **OpenStack , Docker , Kubernetes**
 
 - 📫 How to reach me **zakaria.chelbi@esprit.tn**
+                     **chelbiz@3il.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
